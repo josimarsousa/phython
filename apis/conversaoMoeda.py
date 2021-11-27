@@ -8,7 +8,6 @@ dados = req.json()
 
 if resp == 200:
   print('Dados encontrados: \n', dados, '\n')
-
 else:
   print('Nao encontrado!')
 
